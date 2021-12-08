@@ -97,8 +97,8 @@ class Sacknap
 		        }
 		    }
 		    System.out.println(res);
-		    --t;
+		    t=t-1;
 		}
 		in.close();
 	}
-}//sayak chatterjee
+}
